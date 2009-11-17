@@ -158,4 +158,4 @@ var injectee : TestInjectee = injector.instantiate(TestInjectee);
 
 h3. More Information
 
-p. As these are a rather contrived and useless examples, I urge you to check out "RobotLegs":http://github.com/darscan/robotlegs and its "examples":http://github.com/darscan/robotlegsdemos, which contain much better examples for using IOC in AS3.
+p. As these are a rather contrived and useless examples, I urge you to check out "RobotLegs":http://github.com/darscan/robotlegs and its "examples":http://github.com/darscan/robotlegs-demos-Bundle, which contain much better examples for using IOC in AS3.
